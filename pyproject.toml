@@ -1,7 +1,7 @@
 [tool]
 [tool.poetry]
 name = "timer"
-version = "0.1.0"
+version = "0.1.1"
 homepage = "https://github.com/tadamcz/timer"
 description = "Top-level package for Python code timer."
 authors = ["Tom Adamczewski <tadamczewskipublic@gmail.com>"]
